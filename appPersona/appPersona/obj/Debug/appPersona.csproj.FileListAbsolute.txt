@@ -1,0 +1,30 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\appPersona.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\appPersona.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\appPersona.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.Form1.resources
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.Properties.Resources.resources
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.GenerateResource.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonas.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonasUni.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonas.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonasUni.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.CopyComplete
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\appPersona.exe.config
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\appPersona.exe
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\appPersona.pdb
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonas.dll
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonasUni.dll
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonas.pdb
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\bin\Debug\libPersonasUni.pdb
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.Form1.resources
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.Properties.Resources.resources
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.GenerateResource.cache
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.csproj.CopyComplete
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.exe
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\appPersona\appPersona\obj\Debug\appPersona.pdb

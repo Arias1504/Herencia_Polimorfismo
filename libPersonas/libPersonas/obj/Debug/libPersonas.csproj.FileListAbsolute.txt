@@ -1,0 +1,18 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonas.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonas.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonasUni.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonasUni.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.pdb
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonas.dll
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonas.pdb
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonasUni.dll
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\bin\Debug\libPersonasUni.pdb
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.csproj.CopyComplete
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.dll
+C:\Users\jefer\Desktop\Repositorio\Punto_4\Taller_3\Punto_A\libPersonas\libPersonas\obj\Debug\libPersonas.pdb

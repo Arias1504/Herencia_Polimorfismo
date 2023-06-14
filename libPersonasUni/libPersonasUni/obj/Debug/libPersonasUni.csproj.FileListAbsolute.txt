@@ -1,0 +1,6 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonasUni\libPersonasUni\bin\Debug\libPersonasUni.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonasUni\libPersonasUni\bin\Debug\libPersonasUni.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonasUni\libPersonasUni\obj\Debug\libPersonasUni.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonasUni\libPersonasUni\obj\Debug\libPersonasUni.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonasUni\libPersonasUni\obj\Debug\libPersonasUni.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_A\libPersonasUni\libPersonasUni\obj\Debug\libPersonasUni.pdb
